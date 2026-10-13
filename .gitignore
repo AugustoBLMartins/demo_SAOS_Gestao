@@ -1,0 +1,7 @@
+# Arquivos temporários do Office / Excel
+~$*
+
+# Backups e arquivos temporários de assets
+*-backup*
+*backup*
+*raw*
